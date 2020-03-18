@@ -6,6 +6,16 @@ body {
   background-color: #e1e1d0;
 }
 
+/* ajustando a nav bar */
+.nav-color {
+  background-color: rgba(128, 128, 128, 0.5);
+}
+
+.sobreposicao-navbar {
+  position: absolute;
+  z-index: 9999;
+  width: 100%;
+}
 
 /* CUSTUMIZAÇÃO DO CAROUSEL */
 .carousel {
